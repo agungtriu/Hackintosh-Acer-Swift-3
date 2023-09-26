@@ -1,7 +1,7 @@
 # Acer Swift 3 SF314 54G
 Use this OpenCore EFI to run MacOS on Acer Swift 3 SF314-54G (2018) 
 
-Ensure to edit the **config.plist** and add valid  **PlatformInfo Generic** and **SMBIOS** values
+Ensure to edit the **config.plist** and add valid  **PlatformInfo Generic** values
 
 **Now supporting MacOS Ventura 13.6 - 26 Sep 2023 **
 
